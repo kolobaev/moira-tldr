@@ -14,5 +14,8 @@ https://github.com/moira-alert
 # Doc
 https://moira.readthedocs.io/en/latest/
 
-Open http://127.0.0.1:8080/ in browser
 
+# RUN
+```
+Open http://127.0.0.1:8080/ in browser
+```
