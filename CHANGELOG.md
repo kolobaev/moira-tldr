@@ -1,3 +1,5 @@
+# 0.0.4
+- update nginx
 # 0.0.3
 - update moira-client
 # 0.0.2
