@@ -1,3 +1,5 @@
+# 0.0.5
+- update balancer
 # 0.0.4
 - update nginx
 # 0.0.3
