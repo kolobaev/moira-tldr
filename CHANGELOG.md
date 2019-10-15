@@ -1,3 +1,5 @@
+# 0.0.3
+- update moira-client
 # 0.0.2
 - update redis
 # 0.0.1
